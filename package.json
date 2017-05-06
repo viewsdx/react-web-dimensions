@@ -1,0 +1,22 @@
+{
+  "name": "react-web-dimensions",
+  "version": "0.0.1",
+  "description": "React web dimensions, with the same API as React Native's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viewsdx/react-web-dimensions.git"
+  },
+  "author": "Darío Javier Cravero",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/viewsdx/react-web-dimensions/issues"
+  },
+  "homepage": "https://github.com/viewsdx/react-web-dimensions#readme",
+  "dependencies": {
+    "debounce": "^1.0.2"
+  }
+}
